@@ -8,7 +8,7 @@ package com.mycompany.control_de_hangares;
  *
  * @author prato
  */
-public class Control_de_Hangares {
+public class MainClass {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
